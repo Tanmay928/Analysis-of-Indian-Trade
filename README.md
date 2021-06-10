@@ -4,4 +4,4 @@
 
 * Highlighted biggest importers and exporters.
 
-* Found some convincing trends that may help in increasing the revenue by many folds.
+* Found some convincing trends that may increase the revenue by many folds.
